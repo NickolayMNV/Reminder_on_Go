@@ -10,8 +10,6 @@ import (
 	"Sec/storage/files"
 )
 
-// 6900584168:AAH33akFmLTjv3GOg61OGjpTXcwL_IcmYhk
-
 const (
 	tgBotHost   = "api.telegram.org"
 	storagePath = "files_storage"
